@@ -51,7 +51,7 @@ The sawtooth waveform and triggering square wave were captured from simulation a
 
 ## Report
 
-Read the full PDF report [here](Sawtooth_Wave_Report.pdf).
+Read the full PDF report [here](Sawtooth_Wave_Report(1).pdf).
 
 
 ## 🙋‍♀Author
