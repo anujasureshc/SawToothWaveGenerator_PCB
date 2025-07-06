@@ -51,7 +51,7 @@ The sawtooth waveform and triggering square wave were captured from simulation a
 
 ## Report
 
-Read the full PDF report [here](Sawtooth_Wave_Report(1).pdf).
+Read the full PDF report [here](.https://github.com/anujasureshc/SawToothWaveGenerator_PCB/blob/main/SAWTOOTH%20WAVE%20GENERATOR%20(1).pdf)
 
 
 ## 🙋‍♀Author
